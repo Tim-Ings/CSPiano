@@ -28,19 +28,30 @@ C6-n | Crotchet | 0
 A5-n | Quaver | 0
 C6-n | Quaver | 0
 
+B5-n | Quaver | 0
 A5-n | Quaver | 0
 G5-n | Quaver | 0
-F5-n | Quaver | 0
-G5-n | Quaver | 0
+A5-n | Quaver | 0
 
+B5-n | Quaver | 0
 A5-n | Quaver | 0
 G5-n | Quaver | 0
-F5-n | Quaver | 0
-G5-n | Quaver | 0
+A5-n | Quaver | 0
 
+B5-n | Quaver | 0
 A5-n | Quaver | 0
 G5-n | Quaver | 0
-F5-n | Quaver | 0
-E5-s | Quaver | 0
+F5-s | Quaver | 0
 
-D5-n | Chrotchet | 0
+E5-n | Chrotchet | 0
+E5-n | Quaver | 0
+F5-n | Quaver | 0
+
+G5-n | Quaver | 0
+G5-n | Quaver | 0
+A5-n | Semiquaver | 0
+G5-n | Semiquaver | 0
+F5-n | Semiquaver | 0
+E5-n | Semiquaver | 0
+
+D5-n | Crotchet | 0
