@@ -131,6 +131,6 @@ D5-n | Quaver | 0
 C5-n | Crotchet | 0
 B4-n | Quaver | 0
 A4-n | Semiquaver | 0
-G4-n | Semiquaver | 0
+B4-n | Semiquaver | 0
 
 A4-n | Crotchet | 0
