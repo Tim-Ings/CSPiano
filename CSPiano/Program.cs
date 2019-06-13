@@ -275,7 +275,7 @@ namespace CSPiano
         static void Main(string[] args)
         {
             List<NoteInfo> notes;
-            if (args.Length > 1)
+            if (args.Length > 0)
                 notes = LoadFile(args[0]);
             else
                 notes = LoadFile(fileName);
